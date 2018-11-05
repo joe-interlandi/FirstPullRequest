@@ -28,6 +28,8 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [x] Chong, Tim
 - [ ] Clayton, Daniel
 - [ ] Cooper, Brett
+- [ ] Lui, Jessica
+- [ ] McK
 - [ ] Cornejo, Ricky
 - [ ] Crestani, Ryan
 - [ ] Czymoch, Maximilian
@@ -39,15 +41,13 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Fried, Maggie
 - [ ] Gonzalez, America
 - [X] Huh, David
-- [ ] Interlandi, Joe
+- [X] Interlandi, Joe 
 - [ ] Koch, Alex
 - [ ] Kubicki, Max
 - [ ] Kuriakose, Elizabeth
 - [X] Lanzas Goded, Mariana
 - [ ] Linares, Florencia
-- [X] Lorenz, Steele :frog:
-- [ ] Lui, Jessica
-- [ ] McKee, Sarah
+- [X] Lorenz, Steele :frog:ee, Sarah
 - [ ] Mittal, Trisha
 - [ ] Nakada, Makoto
 - [ ] Nince, Eduardo
